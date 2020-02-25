@@ -1,0 +1,14 @@
+.app {
+  margin: 20px 20px 0px 40px;
+}
+
+.response, .posttext {
+
+  margin-top:6px;
+  margin-bottom: 6px;
+}
+
+.response p {
+  color: green;
+  margin-left:6px;
+}
